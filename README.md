@@ -1,2 +1,1 @@
-"# simple_restrent_page" 
-"# projet_restorant" 
+"# simple_restrent_page"
